@@ -2,6 +2,7 @@
 
 This is my personal copy of **Family Wallet**, built by our team at the ProductTank Buildathon (Challenge 7: "One wallet, many AI helpers"). The original project is credited above.
 
+
 ### The problem
 Families will soon have several AI agents spending from the same wallet. How does a parent stay in charge?
 
