@@ -1,3 +1,29 @@
+## About this fork
+
+This is my personal copy of **Family Wallet**, built by our team at the ProductTank Buildathon (Challenge 7: "One wallet, many AI helpers"). The original project is credited above.
+
+### The problem
+Families will soon have several AI agents spending from the same wallet. How does a parent stay in charge?
+
+### What we built (in one hour)
+- A **parent dashboard** and a **teen's phone app** that sync live
+- **One tap stops a single agent**, while the others keep running
+- Each agent has its own **max per payment, daily cap, allowed shops and end date**
+- The teen requests more on the phone, the parent approves on the dashboard, and the new limit appears on the phone within a second
+
+**Product principle:** stopping should be easy, spending should be hard.
+
+### My role
+I co-built the **parent admin dashboard** with a teammate. I focused on the parent's needs: making it easy to see what each agent is doing, set clear spending limits, and approve or stop spending quickly and safely.
+
+### What I'd explore next
+- Spending history and alerts for each agent
+- Agreed-in-advance rules for different types of purchases
+- Notifications for unusual spending
+
+
+
+
 # Family wallet
 
 **One wallet, many AI helpers.** A control centre where a family manages every AI agent that can spend its money, and can stop any one of them in a single tap without touching the others.
